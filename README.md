@@ -1,15 +1,20 @@
 ### Hello World! 👋
 
-
+<br>
 
 Here are some ideas to get you started:
+
+<br>
 
 - 🔭 I’m currently working on ... Last Month at Lambda School
 - 🌱 I’m currently learning ... [AntD](https://ant.design/)
 - 👯 I’m looking to collaborate on ... Anything
 - 🤔 I’m looking for help with ... Everything
 
+<br>
+
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscfig&theme=dark&show_icons=true)
+
 
 ### Languages and Tools:
 
@@ -23,3 +28,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
