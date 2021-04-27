@@ -2,10 +2,6 @@
 
 <br>
 
-Here are some ideas to get you started:
-
-<br>
-
 - 🔭 I’m currently working on ... Last Month at Lambda School
 - 🌱 I’m currently learning ... [AntD](https://ant.design/)
 - 👯 I’m looking to collaborate on ... Anything
