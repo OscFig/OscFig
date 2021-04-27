@@ -1,12 +1,12 @@
-### Hello World! 👋
+### Hello World! 👋 Welcome to my pretty little page.  😄
 
 <br>
 
 - 🔭 I’m currently working on my last month at Lambda School
 - 🌱 I’m currently learning [Ant Design](https://ant.design/)
 - 👯 I’m looking to collaborate on anything new or exciting
-- 🥅 Future Goals: I would love to start my new career somewhere in Pheonix, AZ
-- ⚡ Fun facts: Kangaroos really like me for some reason
+- 🥅 Future Goals: I would love to start my new career somewhere in Pheonix, AZ  🏜️ 🥵
+- ⚡ Fun facts: Kangaroos really like me for some reason  🦘 🇦🇺
 
 <br>
 
