@@ -1,11 +1,4 @@
-### Hello World! 👋 Welcome to my pretty little page.  😄
 
-<br>
-
-- 🌱 I’m currently learning from [FreeCodeCamp](https://www.freecodecamp.org) and [W3Schools](https://www.w3schools.com/)
-- 👯 I’m looking to collaborate on anything new or exciting
-- 🥅 Future Goals: I would love to start my new career somewhere in Pheonix, AZ  🏜️ 🥵
-- ⚡ Fun facts: Kangaroos really like me for some reason  🦘 🇦🇺
 
 <br>
 
